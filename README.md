@@ -9,5 +9,11 @@
 - Day6- Union Type in TypeScript
 - Day7- Any, Void, Never Data types in TypeScript
 - Day8- Type Assertions in TypeScript || Type Casting
-- Day9- 
-- Day10- 
+- Day9- If Else & Ternary Operator in TypeScript
+- Day10- Switch Case In TypeScript || If Else vs Switch Case
+
+- Day11- Loops
+- Day12- Functions in TS
+- Day13- Arrow Function in TS
+- Day14- Optional and Default function parameters in TS
+- Day15- Function overloading in TS
